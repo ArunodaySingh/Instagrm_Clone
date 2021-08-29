@@ -1,0 +1,16 @@
+.Header_style img
+{
+width: 100px;
+height: 25px;
+object-fit: contain;
+padding: 20px;
+margin:0 18%;
+
+}
+.Header_style{
+    border-bottom: 1px solid grey;
+    background-color: white;
+}
+.btn{
+    display: block;
+}

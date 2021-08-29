@@ -1,0 +1,28 @@
+.post_text {
+font-weight: normal ;
+padding: 20px;
+}
+.Avtar{
+    display: flex;
+   
+    padding: 20px;
+}
+.post_avtar{
+    margin-right: 8px;
+}
+.Image_post{
+    width:100%;
+    
+}
+.post{
+    max-width: 600px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    margin-bottom:1px solid lightgrey ;
+    margin: 2% 20%;
+    
+}
+
+.user_name{
+    margin: auto  0;
+}
